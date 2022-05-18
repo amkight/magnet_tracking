@@ -36,8 +36,9 @@ Step 7) You can also run an offline optimization if you read in the magnetic fie
 	
 	MATLAB script: “optimization_3sensors_XYZrhothetaG_notRealTime.m”
 
+_________________________________
 EXTRA TIPS: 
 
-Code assumes diametrically magnetized magnet
+****Code assumes diametrically magnetized magnet****
 
 “Clear all” if you have opened the serial port in MATLAB and you want to go back to arduino
